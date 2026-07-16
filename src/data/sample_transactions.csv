@@ -1,0 +1,6 @@
+transaction_id,customer_id,amount,country
+1001,C101,250.50,USA
+1002,C102,100.75,Canada
+1003,C103,500.00,USA
+1004,C104,250.00,India
+1005,C105,175.25,UK
